@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  },
+  "name": "sol-airdrop",
+  "description": "",
+  "version": "1.0.0",
+  "main": "airdrop.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RasButAss/sol-airdrop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RasButAss/sol-airdrop/issues"
+  },
+  "homepage": "https://github.com/RasButAss/sol-airdrop#readme"
+}
